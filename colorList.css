@@ -1,0 +1,16 @@
+h1{
+	color: purple; 
+	font-family: 'Courier New', Courier, monospace; 
+}
+
+li {
+	border: 2px solid rgb(139, 22, 181);
+}
+
+#special{
+	background: rgba(186, 8, 124, 0.32);
+}
+
+.completed {
+	text-decoration: line-through;
+}
